@@ -1,5 +1,5 @@
 /*  BOJ 1110 - 더하기 사이클
-    2016.05. */
+    2016.05. by junodeveloper */
 #include <cstdio>
 using namespace std;
 int N,t,c;
