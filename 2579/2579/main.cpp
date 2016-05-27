@@ -1,3 +1,5 @@
+/*  BOJ 2579 - 계단 오르기
+    2016.05. */
 #include <stdio.h>
 #define MAX(a,b) (a>b?a:b)
 int n,a[301],d1[301],d2[301];
